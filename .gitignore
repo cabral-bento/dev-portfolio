@@ -20,11 +20,34 @@ $RECYCLE.BIN/
 *.swo
 *~
 
-# === Dependências / build ===
+# === Dependências / build (Node/JS) ===
 node_modules/
 dist/
 build/
 .cache/
+.next/
+.parcel-cache/
+
+# === Python ===
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+
+# === Java / JVM ===
+*.class
+target/
+.gradle/
+*.jar
+*.war
+bin/
+out/
 
 # === Logs e temporários ===
 *.log

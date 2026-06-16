@@ -1,54 +1,65 @@
-<h1 align="center">💻 Portfólio de Projetos — Desejado Bento Cabral</h1>
+<h1 align="center">💻 Dev Portfolio — Desejado Bento Cabral</h1>
 
 <p align="center">
-  Repositório onde reúno os meus projetos de desenvolvimento web à medida que vou aprendendo e evoluindo.<br>
-  Começou com a certificação <strong>Responsive Web Design</strong> da freeCodeCamp e vai crescer com diferentes tipos de projetos.
+  A growing collection of my programming projects, built as I learn and level up.<br>
+  It started with the <strong>Responsive Web Design</strong> certification from freeCodeCamp and will keep
+  growing with front-end, JavaScript, Python, Java, back-end/APIs and everything freeCodeCamp (and beyond) has to offer.
 </p>
 
 <p align="center">
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white">
   <img alt="freeCodeCamp" src="https://img.shields.io/badge/freeCodeCamp-0A0A23?style=flat&logo=freecodecamp&logoColor=white">
 </p>
 
 ---
 
-## 📖 Sobre
+## 📖 About
 
-Este é um repositório vivo: vou guardando aqui o meu progresso e adicionando novos projetos ao longo do tempo
-para construir um portfólio sólido. Cada pasta corresponde a uma certificação, curso ou tema, e dentro dela ficam
-os projetos/labs individuais.
+This is a living repository: I keep my progress here and add new projects over time to build a solid portfolio.
+It is **not limited to HTML/CSS** — it will include **JavaScript, Python, Java, back-end/APIs** and any other
+technology I pick up along the way (freeCodeCamp and beyond).
 
-## 📂 Estrutura
+Each folder maps to a certification, course or topic, and inside it live the individual projects/labs.
+
+## 📂 Structure
 
 ```
-free-code-camp-projects/
+dev-portfolio/
 └── Responsive Web Design Certification/
-    └── lab-Build-a-Job-Application-Form/   → Formulário de candidatura (HTML + CSS)
+    └── lab-Build-a-Job-Application-Form/   → Job application form (HTML + CSS)
 ```
 
-## 🚀 Projetos
+## 🚀 Projects
 
-| Projeto | Descrição | Tecnologias |
-|---------|-----------|-------------|
-| [Build a Job Application Form](./Responsive%20Web%20Design%20Certification/lab-Build-a-Job-Application-Form) | Formulário de candidatura a emprego com validação visual de campos (lab da freeCodeCamp) | HTML, CSS |
+| Project | Description | Tech |
+|---------|-------------|------|
+| [Build a Job Application Form](./Responsive%20Web%20Design%20Certification/lab-Build-a-Job-Application-Form) | Job application form with visual field validation (freeCodeCamp lab) | HTML, CSS |
 
-> A tabela vai sendo atualizada à medida que novos projetos são adicionados.
+> This table is updated as new projects are added.
 
-## 🛠️ Como abrir um projeto
+## 🛠️ How to run a project
 
-1. Clonar o repositório:
+1. Clone the repository:
    ```bash
    git clone git@github.com:cabral-bento/dev-portfolio.git
    ```
-2. Entrar na pasta do projeto desejado.
-3. Abrir o ficheiro `index.html` no navegador.
+2. Open the folder of the project you want.
+3. Follow the steps for that project type:
+   - **Web (HTML/CSS/JS):** open `index.html` in your browser.
+   - **Python:** `python main.py` (or see the project's `README`).
+   - **Node/JS:** `npm install && npm start`.
+   - **Java:** compile/run as described in the project's `README`.
 
-## 👤 Autor
+## 👤 Author
 
 **Desejado Bento Cabral**
 GitHub: [@cabral-bento](https://github.com/cabral-bento)
 
 ---
 
-<p align="center"><sub>Feito com dedicação enquanto aprendo. 🌱</sub></p>
+<p align="center"><sub>Built with dedication while I learn. 🌱</sub></p>
