@@ -44,22 +44,31 @@ dev-portfolio/
 
 > This table is updated as new projects are added.
 
-## 📊 GitHub Stats
+## 📊 Repository Stats
 
 <p align="center">
-  <img height="165" alt="Desejado's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=cabral-bento&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cabral-bento&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
+  <img alt="Top language" src="https://img.shields.io/github/languages/top/cabral-bento/dev-portfolio?style=flat&logo=github&color=blueviolet">
+  <img alt="Language count" src="https://img.shields.io/github/languages/count/cabral-bento/dev-portfolio?style=flat&logo=github">
+  <img alt="Code size" src="https://img.shields.io/github/languages/code-size/cabral-bento/dev-portfolio?style=flat&logo=github">
+  <img alt="Repo size" src="https://img.shields.io/github/repo-size/cabral-bento/dev-portfolio?style=flat&logo=github">
 </p>
 
 <p align="center">
-  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=cabral-bento&hide_border=true&theme=tokyonight" />
+  <img alt="Last commit" src="https://img.shields.io/github/last-commit/cabral-bento/dev-portfolio?style=flat&logo=git&logoColor=white&color=blue">
+  <img alt="Commit activity" src="https://img.shields.io/github/commit-activity/m/cabral-bento/dev-portfolio?style=flat&logo=github&label=commits%2Fmonth">
+  <img alt="Created at" src="https://img.shields.io/github/created-at/cabral-bento/dev-portfolio?style=flat&logo=github&label=created">
 </p>
 
 <p align="center">
-  <img alt="Profile trophies" src="https://github-profile-trophy.vercel.app/?username=cabral-bento&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
+  <a href="https://github.com/cabral-bento/dev-portfolio">
+    <img alt="Stars" src="https://img.shields.io/github/stars/cabral-bento/dev-portfolio?style=flat&logo=github">
+  </a>
+  <a href="https://www.linkedin.com/in/desejado-bento-cabral90/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Desejado%20Bento%20Cabral-0A66C2?style=flat&logo=linkedin&logoColor=white">
+  </a>
 </p>
 
-> 📈 These cards are generated live from my GitHub activity and update automatically.
+> 📈 These badges read **this repository only** and update automatically as the repo grows.
 
 ## 🛠️ How to run a project
 
@@ -77,7 +86,11 @@ dev-portfolio/
 ## 👤 Author
 
 **Desejado Bento Cabral**
-GitHub: [@cabral-bento](https://github.com/cabral-bento)
+
+<p>
+  <a href="https://github.com/cabral-bento"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-@cabral--bento-181717?style=flat&logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/desejado-bento-cabral90/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Desejado%20Bento%20Cabral-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
+</p>
 
 ---
 
