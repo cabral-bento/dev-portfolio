@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Job Application Form</title>
+    <link rel="stylesheet" href="index.css" />
+</head>
+<body>
+    <div class="container">
+        <h1 class="job-form">Job Application Form</h1>
+        <form>
+
+            <label for="name">Full Name:</label>
+            <input type="text" id="name" placeholder="Enter your name" />
+
+            <label for="email">Email:</label>
+            <input type="email" id="email" placeholder="Enter your email"/>
+
+            <label for="position" class="position-label">Position:</label>
+            <select class="select-option" id="position" name="position-label" required>
+                <option class="item-option" >Select a position</option>
+                <option class="item-option">Devoloper</option>
+                <option class="item-option">Designer</option>
+                <option class="item-option">Menager</option>
+            </select>
+
+            <section>
+                <fieldset class="radio-group">
+                    <legend>Availability:</legend>
+
+                    <input class="contact-method-radio-btn" type="radio"
+                    id="full-time"
+                    name="availability"
+                    placeholder="Enter your name"
+                    checked />
+                    <label for="full-time"
+                    class="availability">Full-Time:</label>
+
+                    <input class="contact-method-radio-btn" type="radio" 
+                    id="part-time" 
+                    placeholder="Enter your email"
+                    name="availability" />
+                    <label for="part-time" class="availability">Part-Time:</label>
+                </fieldset>
+            </section>
+
+            <h2>Why do you want this job?</h2>
+            <textarea id="message" placeholder="Enter your name"></textarea>
+            <button class="submit-btn" type="submit">Submit Application</button>
+        </form>
+    </div>
+</body>
+</html>

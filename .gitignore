@@ -1,0 +1,41 @@
+# === Ferramentas / IA ===
+# Instruções privadas do agente (não devem ir para o GitHub)
+CLAUDE.md
+.claude/settings.local.json
+
+# === Sistema operativo ===
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# === Editores / IDEs ===
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# === Dependências / build ===
+node_modules/
+dist/
+build/
+.cache/
+
+# === Logs e temporários ===
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.tmp
+*.temp
+
+# === Variáveis de ambiente / segredos ===
+.env
+.env.*
+*.pem
+*.key
