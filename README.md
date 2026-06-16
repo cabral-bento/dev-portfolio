@@ -44,6 +44,23 @@ dev-portfolio/
 
 > This table is updated as new projects are added.
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" alt="Desejado's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=cabral-bento&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cabral-bento&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
+</p>
+
+<p align="center">
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=cabral-bento&hide_border=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img alt="Profile trophies" src="https://github-profile-trophy.vercel.app/?username=cabral-bento&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
+</p>
+
+> 📈 These cards are generated live from my GitHub activity and update automatically.
+
 ## 🛠️ How to run a project
 
 1. Clone the repository:
