@@ -47,28 +47,37 @@ dev-portfolio/
 ## 📊 Repository Stats
 
 <p align="center">
-  <img alt="Top language" src="https://img.shields.io/github/languages/top/cabral-bento/dev-portfolio?style=flat&logo=github&color=blueviolet">
-  <img alt="Language count" src="https://img.shields.io/github/languages/count/cabral-bento/dev-portfolio?style=flat&logo=github">
-  <img alt="Code size" src="https://img.shields.io/github/languages/code-size/cabral-bento/dev-portfolio?style=flat&logo=github">
-  <img alt="Repo size" src="https://img.shields.io/github/repo-size/cabral-bento/dev-portfolio?style=flat&logo=github">
-</p>
-
-<p align="center">
-  <img alt="Last commit" src="https://img.shields.io/github/last-commit/cabral-bento/dev-portfolio?style=flat&logo=git&logoColor=white&color=blue">
-  <img alt="Commit activity" src="https://img.shields.io/github/commit-activity/m/cabral-bento/dev-portfolio?style=flat&logo=github&label=commits%2Fmonth">
-  <img alt="Created at" src="https://img.shields.io/github/created-at/cabral-bento/dev-portfolio?style=flat&logo=github&label=created">
-</p>
-
-<p align="center">
   <a href="https://github.com/cabral-bento/dev-portfolio">
-    <img alt="Stars" src="https://img.shields.io/github/stars/cabral-bento/dev-portfolio?style=flat&logo=github">
-  </a>
-  <a href="https://www.linkedin.com/in/desejado-bento-cabral90/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Desejado%20Bento%20Cabral-0A66C2?style=flat&logo=linkedin&logoColor=white">
+    <img alt="Repository card" src="https://github-readme-stats.vercel.app/api/pin/?username=cabral-bento&repo=dev-portfolio&theme=tokyonight&hide_border=true&show_owner=true" />
   </a>
 </p>
 
-> 📈 These badges read **this repository only** and update automatically as the repo grows.
+<!--
+  📈 Activity graph (repobeats) — repo-only, beautiful charts.
+  To enable: go to https://repobeats.axiom.co , sign in with GitHub,
+  add the "cabral-bento/dev-portfolio" repo, copy the generated .svg embed
+  link and paste it as the src below, then uncomment this block.
+
+<p align="center">
+  <img alt="Repo activity" src="https://repobeats.axiom.co/api/embed/REPLACE_WITH_YOUR_HASH.svg" />
+</p>
+-->
+
+<p align="center">
+  <img alt="Last commit" src="https://img.shields.io/github/last-commit/cabral-bento/dev-portfolio?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1b27&color=7aa2f7">
+  <img alt="Commit activity" src="https://img.shields.io/github/commit-activity/m/cabral-bento/dev-portfolio?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27&color=bb9af7&label=commits%2Fmonth">
+  <img alt="Code size" src="https://img.shields.io/github/languages/code-size/cabral-bento/dev-portfolio?style=for-the-badge&logo=files&logoColor=white&labelColor=1a1b27&color=9ece6a">
+</p>
+
+<p align="center">
+  <img alt="Top language" src="https://img.shields.io/github/languages/top/cabral-bento/dev-portfolio?style=for-the-badge&logo=html5&logoColor=white&labelColor=1a1b27&color=e0af68">
+  <img alt="Languages" src="https://img.shields.io/github/languages/count/cabral-bento/dev-portfolio?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27&color=f7768e&label=languages">
+  <a href="https://www.linkedin.com/in/desejado-bento-cabral90/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Desejado%20Bento%20Cabral-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27">
+  </a>
+</p>
+
+> 📈 All of the above reflect **this repository only** and update automatically as it grows.
 
 ## 🛠️ How to run a project
 
