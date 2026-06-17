@@ -32,6 +32,7 @@ Each folder maps to a certification, course or topic, and inside it live the ind
 dev-portfolio/
 └── Responsive Web Design Certification/
     ├── lab-Build-a-Job-Application-Form/    → Job application form (HTML + CSS)
+    ├── lab-Design-a-Contact Form/           → Contact form with required fields (HTML + CSS)
     └── lab-Design-a-Set-of-Colored-Boxes/  → Colored boxes with CSS color models (HTML + CSS)
 ```
 
@@ -40,6 +41,7 @@ dev-portfolio/
 | Project | Description | Tech |
 |---------|-------------|------|
 | [Build a Job Application Form](./Responsive%20Web%20Design%20Certification/lab-Build-a-Job-Application-Form) | Job application form with visual field validation (freeCodeCamp lab) | HTML, CSS |
+| [Design a Contact Form](./Responsive%20Web%20Design%20Certification/lab-Design-a-Contact%20Form) | Responsive contact form with required Name, Email and Message fields (freeCodeCamp lab) | HTML, CSS |
 | [Design a Set of Colored Boxes](./Responsive%20Web%20Design%20Certification/lab-Design-a-Set-of-Colored-Boxes) | Colored boxes practicing CSS color models — HEX, RGB, HSL, named (freeCodeCamp lab) | HTML, CSS |
 
 > This table is updated as new projects are added.

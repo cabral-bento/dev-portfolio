@@ -1,0 +1,50 @@
+body{
+  background-color: #5f1111;
+  font-family: arial;
+  color: white;
+  font-size: 28px;
+  text-align: center;
+}
+
+.container{
+  /* display: block; */
+  margin: auto;
+  max-width: 400px;
+  /* background-color: #9f1111; */
+
+}
+
+.form-container{
+  border-radius: 10px;
+  /* margin: auto; */
+  background-color: #3f1111;
+  padding: 25px;
+  width: 90%;
+
+}
+
+input, textarea{
+  width: 80%;
+  padding: 10px;
+  margin: 0 0 15px 0;
+  border-radius: 7px;
+  border: 3px solid white;
+}
+
+
+label{
+  /* background-color: blue; */
+  margin: 20px;
+  color: white;
+}
+
+button{
+  background-color: skyblue;
+  font-size: 25px;
+  border-radius: 7px;
+}
+
+button:hover{
+  background-color: blue;
+  color: white;
+}
