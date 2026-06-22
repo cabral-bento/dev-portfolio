@@ -31,6 +31,7 @@ Each folder maps to a certification, course or topic, and inside it live the ind
 ```
 dev-portfolio/
 └── Responsive Web Design Certification/
+    ├── Project-Build-a-Page-of-Playing-Cards/ → Hand of playing cards built with Flexbox (HTML + CSS)
     ├── lab-Build-a-Confidential-Email-Page/ → Classified memo with blur redaction & rotated stamps (HTML + CSS)
     ├── lab-Build-a-Job-Application-Form/    → Job application form (HTML + CSS)
     ├── lab-Design-a-Contact Form/           → Contact form with required fields (HTML + CSS)
@@ -42,6 +43,7 @@ dev-portfolio/
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| [Build a Page of Playing Cards](./Responsive%20Web%20Design%20Certification/Project-Build-a-Page-of-Playing-Cards) | A hand of playing cards (A♠ 2♣ 3♥ 4♣ 5♦) recreated with CSS Flexbox and suit-accurate pip layouts (freeCodeCamp project) | HTML, CSS |
 | [Build a Confidential Email Page](./Responsive%20Web%20Design%20Certification/lab-Build-a-Confidential-Email-Page) | Classified memo mockup using CSS blur redaction and rotated stamps (freeCodeCamp lab) | HTML, CSS |
 | [Build a Job Application Form](./Responsive%20Web%20Design%20Certification/lab-Build-a-Job-Application-Form) | Job application form with visual field validation (freeCodeCamp lab) | HTML, CSS |
 | [Design a Contact Form](./Responsive%20Web%20Design%20Certification/lab-Design-a-Contact%20Form) | Responsive contact form with required Name, Email and Message fields (freeCodeCamp lab) | HTML, CSS |
