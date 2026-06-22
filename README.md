@@ -28,29 +28,44 @@ Each folder maps to a certification, course or topic, and inside it live the ind
 
 ## 📂 Structure
 
+> **Naming convention:** `Project-…` = graded certification **projects** · `lab-…` = practice **labs**.
+
 ```
 dev-portfolio/
 └── Responsive Web Design Certification/
-    ├── Project-Build-a-Page-of-Playing-Cards/ → Hand of playing cards built with Flexbox (HTML + CSS)
-    ├── lab-Build-a-Confidential-Email-Page/ → Classified memo with blur redaction & rotated stamps (HTML + CSS)
-    ├── lab-Build-a-Job-Application-Form/    → Job application form (HTML + CSS)
-    ├── lab-Design-a-Contact Form/           → Contact form with required fields (HTML + CSS)
-    ├── lab-Design-a-Feature-Selection-Page/ → Feature cards grid with custom checkboxes (HTML + CSS)
-    └── lab-Design-a-Set-of-Colored-Boxes/  → Colored boxes with CSS color models (HTML + CSS)
+    │
+    ├── 🏆 Projects (certification projects)
+    │   └── Project-Build-a-Page-of-Playing-Cards/ → Hand of playing cards built with Flexbox (HTML + CSS)
+    │
+    └── 🧪 Labs (practice exercises)
+        ├── lab-Build-a-Confidential-Email-Page/ → Classified memo with blur redaction & rotated stamps (HTML + CSS)
+        ├── lab-Build-a-Job-Application-Form/    → Job application form (HTML + CSS)
+        ├── lab-Design-a-Contact Form/           → Contact form with required fields (HTML + CSS)
+        ├── lab-Design-a-Feature-Selection-Page/ → Feature cards grid with custom checkboxes (HTML + CSS)
+        └── lab-Design-a-Set-of-Colored-Boxes/  → Colored boxes with CSS color models (HTML + CSS)
 ```
 
-## 🚀 Projects
+## 🏆 Projects
+
+> Graded freeCodeCamp **certification projects**.
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [Build a Page of Playing Cards](./Responsive%20Web%20Design%20Certification/Project-Build-a-Page-of-Playing-Cards) | A hand of playing cards (A♠ 2♣ 3♥ 4♣ 5♦) recreated with CSS Flexbox and suit-accurate pip layouts (freeCodeCamp project) | HTML, CSS |
-| [Build a Confidential Email Page](./Responsive%20Web%20Design%20Certification/lab-Build-a-Confidential-Email-Page) | Classified memo mockup using CSS blur redaction and rotated stamps (freeCodeCamp lab) | HTML, CSS |
-| [Build a Job Application Form](./Responsive%20Web%20Design%20Certification/lab-Build-a-Job-Application-Form) | Job application form with visual field validation (freeCodeCamp lab) | HTML, CSS |
-| [Design a Contact Form](./Responsive%20Web%20Design%20Certification/lab-Design-a-Contact%20Form) | Responsive contact form with required Name, Email and Message fields (freeCodeCamp lab) | HTML, CSS |
-| [Design a Feature Selection Page](./Responsive%20Web%20Design%20Certification/lab-Design-a-Feature-Selection-Page) | Two-column grid of feature cards with custom-styled checkboxes (freeCodeCamp lab) | HTML, CSS |
-| [Design a Set of Colored Boxes](./Responsive%20Web%20Design%20Certification/lab-Design-a-Set-of-Colored-Boxes) | Colored boxes practicing CSS color models — HEX, RGB, HSL, named (freeCodeCamp lab) | HTML, CSS |
+| [Build a Page of Playing Cards](./Responsive%20Web%20Design%20Certification/Project-Build-a-Page-of-Playing-Cards) | A hand of playing cards (A♠ 2♣ 3♥ 4♣ 5♦) recreated with CSS Flexbox and suit-accurate pip layouts | HTML, CSS |
 
-> This table is updated as new projects are added.
+## 🧪 Labs
+
+> freeCodeCamp **practice labs** (guided exercises).
+
+| Lab | Description | Tech |
+|-----|-------------|------|
+| [Build a Confidential Email Page](./Responsive%20Web%20Design%20Certification/lab-Build-a-Confidential-Email-Page) | Classified memo mockup using CSS blur redaction and rotated stamps | HTML, CSS |
+| [Build a Job Application Form](./Responsive%20Web%20Design%20Certification/lab-Build-a-Job-Application-Form) | Job application form with visual field validation | HTML, CSS |
+| [Design a Contact Form](./Responsive%20Web%20Design%20Certification/lab-Design-a-Contact%20Form) | Responsive contact form with required Name, Email and Message fields | HTML, CSS |
+| [Design a Feature Selection Page](./Responsive%20Web%20Design%20Certification/lab-Design-a-Feature-Selection-Page) | Two-column grid of feature cards with custom-styled checkboxes | HTML, CSS |
+| [Design a Set of Colored Boxes](./Responsive%20Web%20Design%20Certification/lab-Design-a-Set-of-Colored-Boxes) | Colored boxes practicing CSS color models — HEX, RGB, HSL, named | HTML, CSS |
+
+> These tables are updated as new projects and labs are added.
 
 ## 🛠️ How to run a project
 
