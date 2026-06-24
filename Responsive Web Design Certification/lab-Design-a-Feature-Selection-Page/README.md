@@ -1,4 +1,4 @@
-<h1 align="center">🧩 Design a Feature Selection Page</h1>
+<h1 align="center">Design a Feature Selection Page</h1>
 Objective: Fulfill the user stories below and get all the tests to pass to complete the lab.
 <p align="center">
 
@@ -9,14 +9,14 @@ Objective: Fulfill the user stories below and get all the tests to pass to compl
 
 > Practice lab from the **Responsive Web Design** certification (freeCodeCamp).
 
-## 📖 Overview
+## Overview
 
 A **feature selection page** built with semantic HTML and pure CSS. Six product features are laid
 out as a **two-column grid of cards**, each with a custom-styled checkbox so the user can pick the
 options they want. The whole card is clickable thanks to the `<label>`-wrapping technique, and the
 native checkbox appearance is fully restyled with CSS — no JavaScript involved.
 
-## ✨ Features
+## Features
 
 - **CSS Grid layout** — `.feature-card-container` uses `grid-template-columns: repeat(2, 1fr)`
   with a `gap`, centered and capped at `max-width: 900px`, so the six cards sit in a tidy
@@ -26,11 +26,11 @@ native checkbox appearance is fully restyled with CSS — no JavaScript involved
 - **Whole-card clickability** — each card is a `<label>` wrapping its `<input>`, so clicking
   anywhere on the card toggles the checkbox.
 - **Custom checkboxes** — native appearance removed with `appearance: none` and rebuilt with a
-  rounded border, a colored `:checked` state and a CSS-generated check mark (`::after { content: "✓" }`).
+  rounded border, a colored `:checked` state and a CSS-generated check mark (`::after { content: "" }`).
 - **Hover feedback** — cards gain a glowing shadow and a highlighted border on `:hover`.
 - **Visual depth** — `box-shadow`, `border-radius` and a translucent container background.
 
-## 🧠 Concepts practiced
+## Concepts practiced
 
 | Concept | Where it's used |
 |---------|-----------------|
@@ -40,7 +40,7 @@ native checkbox appearance is fully restyled with CSS — no JavaScript involved
 | Interactive states | `:hover`, `:checked`, `transition` |
 | Visual design | `box-shadow`, `border-radius`, translucent backgrounds |
 
-## 📂 Files
+## Files
 
 ```
 lab-Design-a-Feature-Selection-Page/
@@ -49,7 +49,7 @@ lab-Design-a-Feature-Selection-Page/
 └── README.md
 ```
 
-## 🚀 How to run
+## How to run
 
 Open `index.html` in any modern browser — no build step or dependencies required.
 

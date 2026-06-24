@@ -1,4 +1,4 @@
-<h1 align="center">✉️ Design a Contact Form</h1>
+<h1 align="center">Design a Contact Form</h1>
 
 <p align="center">
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">
@@ -8,14 +8,14 @@
 
 > Practice lab from the **Responsive Web Design** certification (freeCodeCamp).
 
-## 📖 Overview
+## Overview
 
 A compact, centered **contact form** built with semantic HTML and pure CSS. The page collects a
 visitor's **name, email and message** and relies on the browser's native HTML validation
 (`required` fields and the `email` input type) to ensure the form is filled in correctly before
 submission — no JavaScript required.
 
-## ✨ Features
+## Features
 
 - **Centered, responsive card** — the `.container` is capped at `max-width: 400px` and centered
   with `margin: auto`, while the inner `.form-container` uses a percentage width so it scales
@@ -31,7 +31,7 @@ submission — no JavaScript required.
 - **Dark-red theme** — rounded corners (`border-radius`), generous padding and a `skyblue` submit
   button that turns blue on `:hover`.
 
-## 🧠 Concepts practiced
+## Concepts practiced
 
 | Concept | Where it's used |
 |---------|-----------------|
@@ -41,7 +41,7 @@ submission — no JavaScript required.
 | Interactive styling | `button:hover` |
 | Visual design | `border-radius`, `padding`, color theming |
 
-## 📂 Files
+## Files
 
 ```
 lab-Design-a-Contact Form/
@@ -50,7 +50,7 @@ lab-Design-a-Contact Form/
 └── README.md
 ```
 
-## 🚀 How to run
+## How to run
 
 Open `index.html` in any modern browser — no build step or dependencies required.
 

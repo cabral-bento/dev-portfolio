@@ -1,4 +1,4 @@
-<h1 align="center">🕵️ Build a Confidential Email Page</h1>
+<h1 align="center">Build a Confidential Email Page</h1>
 
 <p align="center">
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">
@@ -8,14 +8,14 @@
 
 > Practice lab from the **Responsive Web Design** certification (freeCodeCamp).
 
-## 📖 Overview
+## Overview
 
 A playful **confidential email** mockup styled like a classified secret-agent memo. The page
 renders a parchment-style card with rotated **CONFIDENTIAL** and **TOP SECRET** stamps, and uses
 the CSS `blur()` filter to **redact** sensitive parts of the message — recreating the look of a
 censored document with pure HTML and CSS.
 
-## ✨ Features
+## Features
 
 - **Memo card** — a centered `<main>` with fixed width, padding, a rounded border and a soft
   `box-shadow`, on a parchment-like `#FAF0E6` background.
@@ -28,7 +28,7 @@ censored document with pure HTML and CSS.
 - **Semantic structure** — content wrapped in `<main>` with `<p>` paragraphs and inline `<span>`
   redactions.
 
-## 🧠 Concepts practiced
+## Concepts practiced
 
 | Concept | Where it's used |
 |---------|-----------------|
@@ -38,7 +38,7 @@ censored document with pure HTML and CSS.
 | Box model & depth | `box-shadow`, `border-radius`, `box-sizing` |
 | Centered layout | `margin: auto`, fixed `width` |
 
-## 📂 Files
+## Files
 
 ```
 lab-Build-a-Confidential-Email-Page/
@@ -47,7 +47,7 @@ lab-Build-a-Confidential-Email-Page/
 └── README.md
 ```
 
-## 🚀 How to run
+## How to run
 
 Open `index.html` in any modern browser — no build step or dependencies required.
 

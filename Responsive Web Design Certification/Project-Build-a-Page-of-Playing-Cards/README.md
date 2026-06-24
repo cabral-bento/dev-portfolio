@@ -8,7 +8,7 @@
 
 > Certification project from the **Responsive Web Design** course (freeCodeCamp).
 
-## 📖 Overview
+## Overview
 
 A responsive page that recreates a hand of **playing cards** — the Ace of Spades, 2 of Clubs,
 3 of Hearts, 4 of Clubs and 5 of Diamonds — built entirely with **HTML and CSS Flexbox**. Each
@@ -16,7 +16,7 @@ card reproduces the real layout of a deck: rank and suit in the top-left and bot
 (the bottom one rotated 180°), and the suit pips arranged in the centre according to the card's
 value.
 
-## ✨ Features
+## Features
 
 - **Flexbox table** — `#playing-cards` is a flex container with `flex-wrap` and `gap`, centring
   the cards and letting them reflow onto multiple rows on smaller screens.
@@ -31,7 +31,7 @@ value.
 - **Card styling** — fixed `width`/`height`, `border-radius` and `box-shadow` give each card a
   crisp, slightly raised look on a light `#E0FFFF` table.
 
-## 🧠 Concepts practiced
+## Concepts practiced
 
 | Concept | Where it's used |
 |---------|-----------------|
@@ -42,7 +42,7 @@ value.
 | CSS transforms | `transform: rotate(180deg)` utility class |
 | Box model & depth | `box-shadow`, `border-radius`, fixed sizing |
 
-## 📂 Files
+## Files
 
 ```
 Project-Build-a-Page-of-Playing-Cards/
@@ -51,7 +51,7 @@ Project-Build-a-Page-of-Playing-Cards/
 └── README.md
 ```
 
-## 🚀 How to run
+## How to run
 
 Open `index.html` in any modern browser — no build step or dependencies required.
 

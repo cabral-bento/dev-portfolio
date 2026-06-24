@@ -1,4 +1,4 @@
-<h1 align="center">📝 Build a Job Application Form</h1>
+<h1 align="center">Build a Job Application Form</h1>
 
 <p align="center">
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">
@@ -8,14 +8,14 @@
 
 > Practice lab from the **Responsive Web Design** certification (freeCodeCamp).
 
-## 📖 Overview
+## Overview
 
 A responsive **job application form** built with semantic HTML and CSS. The page collects an
 applicant's details and gives **instant visual feedback** on each field using native CSS
 validation pseudo-classes — no JavaScript involved. It is a focused exercise on accessible form
 markup and pure-CSS state styling.
 
-## ✨ Features
+## Features
 
 - **Centered, responsive card** — `width: 80%` with `max-width: 600px`, so it adapts from mobile
   to desktop while staying readable, with rounded corners and a soft `box-shadow`.
@@ -34,7 +34,7 @@ markup and pure-CSS state styling.
 - **Accessible markup** — every input is tied to its `<label>` through matching `for`/`id`
   attributes, and the radio group is grouped semantically inside a `fieldset`.
 
-## 🧠 Concepts practiced
+## Concepts practiced
 
 | Concept | Where it's used |
 |---------|-----------------|
@@ -45,7 +45,7 @@ markup and pure-CSS state styling.
 | Responsive layout | `max-width`, percentage widths, `margin: auto` |
 | Visual depth | `box-shadow`, `border-radius` |
 
-## 📂 Files
+## Files
 
 ```
 lab-Build-a-Job-Application-Form/
@@ -54,7 +54,7 @@ lab-Build-a-Job-Application-Form/
 └── README.md
 ```
 
-## 🚀 How to run
+## How to run
 
 Open `index.html` in any modern browser — no build step or dependencies required.
 

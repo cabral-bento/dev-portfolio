@@ -1,4 +1,4 @@
-<h1 align="center">📰 Build a Newspaper Article</h1>
+<h1 align="center">Build a Newspaper Article</h1>
 
 <p align="center">
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">
@@ -8,14 +8,14 @@
 
 > Practice lab from the **Responsive Web Design** certification (freeCodeCamp).
 
-## 📖 Overview
+## Overview
 
 A classic **newspaper article** layout rendered with pure HTML and CSS. The page recreates the
 look of a printed paper — a centered column on a tinted background, an uppercase masthead in a
 serif typeface, an italic sub-headline, a byline, and body paragraphs with an old-school
 **drop cap** on the first letter.
 
-## ✨ Features
+## Features
 
 - **Centered article column** — a fixed-width `.newspaper` card centered with `margin: auto` on a
   soft `#D4EBF2` page background.
@@ -28,7 +28,7 @@ serif typeface, an italic sub-headline, a byline, and body paragraphs with an ol
 - **Print-like details** — uppercase masthead/byline via `text-transform`, indented paragraphs with
   `text-indent`, and a thin `font-weight: 100` italic sub-headline.
 
-## 🧠 Concepts practiced
+## Concepts practiced
 
 | Concept | Where it's used |
 |---------|-----------------|
@@ -38,7 +38,7 @@ serif typeface, an italic sub-headline, a byline, and body paragraphs with an ol
 | Multiple selectors | grouped `.name, .author` rule |
 | Centered fixed layout | `margin: auto` + fixed `width` |
 
-## 📂 Files
+## Files
 
 ```
 lab-Build-a-Newspaper-Article/
@@ -47,7 +47,7 @@ lab-Build-a-Newspaper-Article/
 └── README.md
 ```
 
-## 🚀 How to run
+## How to run
 
 Open `index.html` in any modern browser — no build step or dependencies required.
 

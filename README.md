@@ -1,4 +1,4 @@
-<h1 align="center">💻 Dev Portfolio — Desejado Bento Cabral</h1>
+<h1 align="center">Dev Portfolio — Desejado Bento Cabral</h1>
 
 <p align="center">
   A growing collection of my programming projects, built as I learn and level up.<br>
@@ -18,7 +18,7 @@
 
 ---
 
-## 📖 About
+## About
 
 This is a living repository: I keep my progress here and add new projects over time to build a solid portfolio.
 It is **not limited to HTML/CSS** — it will include **JavaScript, Python, Java, back-end/APIs** and any other
@@ -26,7 +26,7 @@ technology I pick up along the way (freeCodeCamp and beyond).
 
 Each folder maps to a certification, course or topic, and inside it live the individual projects/labs.
 
-## 📂 Structure
+## Structure
 
 > **Naming convention:** `Project-…` = graded certification **projects** · `lab-…` = practice **labs**.
 
@@ -34,10 +34,10 @@ Each folder maps to a certification, course or topic, and inside it live the ind
 dev-portfolio/
 └── Responsive Web Design Certification/
     │
-    ├── 🏆 Projects (certification projects)
+    ├── Projects (certification projects)
     │   └── Project-Build-a-Page-of-Playing-Cards/ → Hand of playing cards built with Flexbox (HTML + CSS)
     │
-    └── 🧪 Labs (practice exercises)
+    └── Labs (practice exercises)
         ├── lab-Build-a-Confidential-Email-Page/ → Classified memo with blur redaction & rotated stamps (HTML + CSS)
         ├── lab-Build-a-Job-Application-Form/    → Job application form (HTML + CSS)
         ├── lab-Build-a-Newspaper-Article/       → Newspaper article with drop cap & print typography (HTML + CSS)
@@ -46,15 +46,15 @@ dev-portfolio/
         └── lab-Design-a-Set-of-Colored-Boxes/  → Colored boxes with CSS color models (HTML + CSS)
 ```
 
-## 🏆 Projects
+## Projects
 
 > Graded freeCodeCamp **certification projects**.
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [Build a Page of Playing Cards](./Responsive%20Web%20Design%20Certification/Project-Build-a-Page-of-Playing-Cards) | A hand of playing cards (A♠ 2♣ 3♥ 4♣ 5♦) recreated with CSS Flexbox and suit-accurate pip layouts | HTML, CSS |
+| [Build a Page of Playing Cards](./Responsive%20Web%20Design%20Certification/Project-Build-a-Page-of-Playing-Cards) | A hand of playing cards (Ace through Five across the four suits) recreated with CSS Flexbox and suit-accurate pip layouts | HTML, CSS |
 
-## 🧪 Labs
+## Labs
 
 > freeCodeCamp **practice labs** (guided exercises).
 
@@ -69,7 +69,7 @@ dev-portfolio/
 
 > These tables are updated as new projects and labs are added.
 
-## 🛠️ How to run a project
+## How to run a project
 
 1. Clone the repository:
    ```bash
@@ -82,7 +82,7 @@ dev-portfolio/
    - **Node/JS:** `npm install && npm start`.
    - **Java:** compile/run as described in the project's `README`.
 
-## 👤 Author
+## Author
 
 **Desejado Bento Cabral**
 
@@ -93,4 +93,4 @@ dev-portfolio/
 
 ---
 
-<p align="center"><sub>Built with dedication while I learn. 🌱</sub></p>
+<p align="center"><sub>Built with dedication while I learn.</sub></p>

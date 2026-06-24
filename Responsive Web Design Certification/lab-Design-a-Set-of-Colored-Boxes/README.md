@@ -1,4 +1,4 @@
-<h1 align="center">🎨 Design a Set of Colored Boxes</h1>
+<h1 align="center">Design a Set of Colored Boxes</h1>
 
 <p align="center">
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">
@@ -8,13 +8,13 @@
 
 > Practice lab from the **Responsive Web Design** certification (freeCodeCamp).
 
-## 📖 Overview
+## Overview
 
 A small page that renders a **row of five colored boxes** to practice the different ways CSS lets
 you define colors. Each box is filled using a **different color notation**, making it a clear,
 side-by-side reference for the main CSS color models.
 
-## 🌈 The color models used
+## The color models used
 
 | Box | Value | Notation |
 |-----|-------|----------|
@@ -24,7 +24,7 @@ side-by-side reference for the main CSS color models.
 | 4 | `hsl(300, 60%, 50%)` | **HSL** |
 | 5 | `orange` | **Named color** |
 
-## ✨ Features
+## Features
 
 - **Flexbox layout** — the boxes live in a `.color-grid` container using
   `display: flex` with `justify-content: center` and a `gap` of `50px` to space them evenly and
@@ -33,7 +33,7 @@ side-by-side reference for the main CSS color models.
   `10px` `border-radius` for soft, rounded corners.
 - **Clean typography** — centered heading on a light `#f4f4f4` background.
 
-## 🧠 Concepts practiced
+## Concepts practiced
 
 | Concept | Where it's used |
 |---------|-----------------|
@@ -42,7 +42,7 @@ side-by-side reference for the main CSS color models.
 | Box sizing & shape | `width`, `height`, `border-radius` |
 | Reusable classes | shared `.color-box` + per-box modifier classes |
 
-## 📂 Files
+## Files
 
 ```
 lab-Design-a-Set-of-Colored-Boxes/
@@ -51,7 +51,7 @@ lab-Design-a-Set-of-Colored-Boxes/
 └── README.md
 ```
 
-## 🚀 How to run
+## How to run
 
 Open `index.html` in any modern browser — no build step or dependencies required.
 
