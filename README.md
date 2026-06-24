@@ -34,6 +34,9 @@ Each folder maps to a certification, course or topic, and inside it live the ind
 dev-portfolio/
 └── Responsive Web Design Certification/
     │
+    ├── 🏆 Projects (certification projects)
+    │   └── Project-Build-a-Page-of-Playing-Cards/ → Hand of playing cards built with Flexbox (HTML + CSS)
+    │
     └── 🧪 Labs (practice exercises)
         ├── lab-Build-a-Confidential-Email-Page/ → Classified memo with blur redaction & rotated stamps (HTML + CSS)
         ├── lab-Build-a-Job-Application-Form/    → Job application form (HTML + CSS)
@@ -42,6 +45,14 @@ dev-portfolio/
         ├── lab-Design-a-Feature-Selection-Page/ → Feature cards grid with custom checkboxes (HTML + CSS)
         └── lab-Design-a-Set-of-Colored-Boxes/  → Colored boxes with CSS color models (HTML + CSS)
 ```
+
+## 🏆 Projects
+
+> Graded freeCodeCamp **certification projects**.
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [Build a Page of Playing Cards](./Responsive%20Web%20Design%20Certification/Project-Build-a-Page-of-Playing-Cards) | A hand of playing cards (A♠ 2♣ 3♥ 4♣ 5♦) recreated with CSS Flexbox and suit-accurate pip layouts | HTML, CSS |
 
 ## 🧪 Labs
 
