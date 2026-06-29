@@ -41,6 +41,7 @@ dev-portfolio/
         ├── lab-Build-a-Confidential-Email-Page/ → Classified memo with blur redaction & rotated stamps (HTML + CSS)
         ├── lab-Build-a-Job-Application-Form/    → Job application form (HTML + CSS)
         ├── lab-Build-a-Newspaper-Article/       → Newspaper article with drop cap & print typography (HTML + CSS)
+        ├── lab-Build-a-Tribute-Page/            → Tribute page for Dr. Norman Borlaug with life timeline (HTML + CSS)
         ├── lab-Design-a-Contact Form/           → Contact form with required fields (HTML + CSS)
         ├── lab-Design-a-Feature-Selection-Page/ → Feature cards grid with custom checkboxes (HTML + CSS)
         └── lab-Design-a-Set-of-Colored-Boxes/  → Colored boxes with CSS color models (HTML + CSS)
@@ -63,6 +64,7 @@ dev-portfolio/
 | [Build a Confidential Email Page](./Responsive%20Web%20Design%20Certification/lab-Build-a-Confidential-Email-Page) | Classified memo mockup using CSS blur redaction and rotated stamps | HTML, CSS |
 | [Build a Job Application Form](./Responsive%20Web%20Design%20Certification/lab-Build-a-Job-Application-Form) | Job application form with visual field validation | HTML, CSS |
 | [Build a Newspaper Article](./Responsive%20Web%20Design%20Certification/lab-Build-a-Newspaper-Article) | Newspaper article layout with `::first-letter` drop cap and print-style typography | HTML, CSS |
+| [Build a Tribute Page](./Responsive%20Web%20Design%20Certification/lab-Build-a-Tribute-Page) | Tribute page for Dr. Norman Borlaug with a chronological life timeline | HTML, CSS |
 | [Design a Contact Form](./Responsive%20Web%20Design%20Certification/lab-Design-a-Contact%20Form) | Responsive contact form with required Name, Email and Message fields | HTML, CSS |
 | [Design a Feature Selection Page](./Responsive%20Web%20Design%20Certification/lab-Design-a-Feature-Selection-Page) | Two-column grid of feature cards with custom-styled checkboxes | HTML, CSS |
 | [Design a Set of Colored Boxes](./Responsive%20Web%20Design%20Certification/lab-Design-a-Set-of-Colored-Boxes) | Colored boxes practicing CSS color models — HEX, RGB, HSL, named | HTML, CSS |
