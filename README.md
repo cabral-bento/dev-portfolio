@@ -28,7 +28,7 @@ Each folder maps to a certification, course or topic, and inside it live the ind
 
 ## Structure
 
-> **Naming convention:** `Project-…` = graded certification **projects** · `lab-…` = practice **labs**.
+> **Naming convention:** `Project-…` = graded certification **projects** · `lab-…` = practice **labs** · `exe-…` = freeform **exercises**.
 
 ```
 dev-portfolio/
@@ -36,6 +36,9 @@ dev-portfolio/
     │
     ├── Projects (certification projects)
     │   └── Project-Build-a-Page-of-Playing-Cards/ → Hand of playing cards built with Flexbox (HTML + CSS)
+    │
+    ├── Exercises (freeform practice)
+    │   └── exe-Build-a-Cat-Painting/ → Cat face drawn purely with HTML + CSS shapes
     │
     └── Labs (practice exercises)
         ├── lab-Build-a-Confidential-Email-Page/ → Classified memo with blur redaction & rotated stamps (HTML + CSS)
@@ -54,6 +57,14 @@ dev-portfolio/
 | Project | Description | Tech |
 |---------|-------------|------|
 | [Build a Page of Playing Cards](./Responsive%20Web%20Design%20Certification/Project-Build-a-Page-of-Playing-Cards) | A hand of playing cards (Ace through Five across the four suits) recreated with CSS Flexbox and suit-accurate pip layouts | HTML, CSS |
+
+## Exercises
+
+> Freeform **practice exercises** (drawing, experiments, smaller drills).
+
+| Exercise | Description | Tech |
+|----------|-------------|------|
+| [Build a Cat Painting](./Responsive%20Web%20Design%20Certification/exe-Build-a-Cat-Painting) | A cat's face drawn entirely with CSS shapes — borders, border-radius and transforms, no images | HTML, CSS |
 
 ## Labs
 
